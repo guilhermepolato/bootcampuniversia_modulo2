@@ -49,9 +49,9 @@ Durante a execução deste projeto foram praticadas as seguintes habilidades:
 
 ## 📸 Dashboard
 
-![Vendas por Produtos](vendasporprodutos.png)
+![Sales Report](salesreport.png)
 
-![Vendas por Países](vendasporpais.png)
+![Report Lucro Detalhado](reportlucrodetalhado.png)
 
 ## 🚀 Como visualizar o projeto
 
