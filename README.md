@@ -51,6 +51,8 @@ Durante a execução deste projeto foram praticadas as seguintes habilidades:
 
 ![Sales Report](salesreport.png)
 
+![Sales Report 2](salesreport2.png)
+
 ![Report Lucro Detalhado](reportlucrodetalhado.png)
 
 ## 🚀 Como visualizar o projeto
